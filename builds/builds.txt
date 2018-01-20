@@ -4,7 +4,7 @@ zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
 
 name="THEHELL Build"
 version="8"
-url="https://raw.githubusercontent.com/rvermaat/plugin.program.thehellwizard/master/zips/thehell_buid_v8.zip"
+url="https://raw.githubusercontent.com/rvermaat/thehell/master/builds/zips/thehell_buid_v8.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
