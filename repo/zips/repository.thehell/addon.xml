@@ -8,7 +8,7 @@
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/rvermaat/thehell/repo/master/zips/</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/zips/</datadir>
 		</dir>
 
 		<!-- ***** MARCELVELDT REPO ***** -->
