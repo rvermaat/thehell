@@ -17,7 +17,7 @@ description="THEHELL Build"
 
 name="THEHELL Build"
 version="9"
-url="https://raw.githubusercontent.com/rvermaat/thehell/master/builds/zips/thehell_buid_v9.zip"
+url="https://archive.org/download/thehell_buid_v9/thehell_buid_v9.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
