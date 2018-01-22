@@ -4,7 +4,7 @@ zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
 
 name="THEHELL Build"
 version="10"
-url="https://github.com/rvermaat/thehell/blob/master/builds/zips/thehell_buid_v10.zip?raw=true"
+url="https://archive.org/download/thehell_builld_v10/thehell_builld_v10.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
