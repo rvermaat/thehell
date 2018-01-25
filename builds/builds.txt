@@ -1,9 +1,9 @@
 id="plugin.program.thehellwizard"
-version="0.1.7a"
-zip="https://github.com/rvermaat/thehell/blob/master/repo/zips/plugin.program.thehellwizard/plugin.program.thehellwizard-0.0.1.zip?raw=true"
+version="0.1.7a Version Matches Addon.xml"
+zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
 
 name="THEHELL Build"
-version="10"
+version="0.10"
 url="https://archive.org/download/thehell_builld_v10/thehell_builld_v10.zip"
 gui="http://"
 kodi="17.0"
