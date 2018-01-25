@@ -4,7 +4,7 @@ zip="https://github.com/rvermaat/thehell/blob/master/repo/zips/plugin.program.th
 
 name="THEHELL Build"
 version="10"
-url="https://azro6w.bn1303.livefilestore.com/y4m8woWuEMHGUleAICjpNNiG8Wr0LdGiXeSD-Sbc6c15Ue3MQY5kyhWKnPtjf3MBO8Jri-5N9cT1nkMnTlXMq1qrntt3myIQNReMCpRPr0MookVU-wB4cVujDj1_oN883nIIYW2879YzvJf3zP8HJh-k5X9zanvVgb9QeglznPxvte1sFtOMWb6Duj6cxV5dF-XhAwoiZhfu9KEJkoT-0apPQ/thehell_builld_v10.zip?download&psid=1"
+url=https://archive.org/download/thehell_builld_v10/thehell_builld_v10.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
