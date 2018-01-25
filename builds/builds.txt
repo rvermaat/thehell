@@ -1,6 +1,6 @@
 id="plugin.program.thehellwizard"
-version="0.1.7a Version Matches Addon.xml"
-zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
+version="0.1.7a"
+zip="https://github.com/rvermaat/thehell/blob/master/repo/zips/plugin.program.thehellwizard/plugin.program.thehellwizard-0.0.1.zip?raw=true"
 
 name="THEHELL Build"
 version="10"
