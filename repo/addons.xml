@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.4" provider-name="THEHELL">
+	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.5" provider-name="THEHELL">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
