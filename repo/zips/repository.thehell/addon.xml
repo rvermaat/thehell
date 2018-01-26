@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.7" provider-name="thehell">
+<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.8" provider-name="thehell">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository" name="THEHELL Addon Repo">
-		<!-- ***** THEHELL REPO ***** -->
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/zips/</datadir>
-		</dir>
-
 		<!-- ***** MARCELVELDT REPO ***** -->
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
@@ -84,6 +77,13 @@
 			<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
 			<checksum>https://github.com/jdf76/repository/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/jdf76/repository/raw/master/zips</datadir>
+		</dir>
+
+		<!-- ***** THEHELL REPO ***** -->
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/rvermaat/thehell/master/repo/addons.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/rvermaat/thehell/master/repo/zips/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
