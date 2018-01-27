@@ -14,7 +14,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.8" provider-name="thehell">
+	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.9" provider-name="thehell">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
