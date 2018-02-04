@@ -10,7 +10,14 @@
 		<extension point="xbmc.service" library="startup.py" start="startup" />
 		<extension point="xbmc.addon.metadata">
 			<summary>Installer for THEHELL Builds</summary>
-			<description>This Wizard allows you to install the latest version of builds from THEHELL.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.</description>
+			<description>
+				This Wizard allows you to install the latest version of builds from THEHELL. 
+				It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.
+			</description>
+			<news>
+				- remove unused trakt/debrid/addons
+				- added resolveURL support
+			</news>
 			<platform>all</platform>
 		</extension>
 	</addon>
@@ -28,6 +35,9 @@
 		<extension point="xbmc.addon.metadata">
 			<summary>THEHELL Addon</summary>
 			<description>THEHELL Addon Repo</description>
+			<news>
+				- Added jsergio repo
+			</news>
 			<platform>all</platform>
 		</extension>
 	</addon>
