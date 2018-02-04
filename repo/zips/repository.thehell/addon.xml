@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.9" provider-name="thehell">
+<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.10" provider-name="thehell">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
@@ -11,11 +11,18 @@
 			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
 		</dir>
 
-		<!-- ***** TVA RESOLVER REPO ***** -->
+		<!-- ***** TVA URL RESOLVER REPO ***** -->
 		<dir>
 			<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
 			<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+		</dir>
+
+		<!-- ***** JSERGIO RESOLVE URL REPO ***** -->
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
 		</dir>
 
 		<!-- ***** NOOBSANDNERDS MODULES REPO ***** -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.9" provider-name="THEHELL">
+	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.10" provider-name="THEHELL">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -14,7 +14,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.9" provider-name="thehell">
+	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.10" provider-name="thehell">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
