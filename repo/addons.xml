@@ -2,7 +2,7 @@
 <addons>
 
 	<!-- REPOSITORY: THEHELL -->
-	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.10" provider-name="thehell">
+	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.11" provider-name="thehell">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
