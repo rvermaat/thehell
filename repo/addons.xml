@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-	<!-- REPOSITOTY: THEHELL -->
+	<!-- REPOSITORY: THEHELL -->
 	<addon id="repository.thehell" name="THEHELL Addon Repo" version="0.0.10" provider-name="thehell">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
@@ -23,14 +23,23 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITOTY: SERGIO -->
-	<addon id="repository.jsergio" name="jsergio repo" version="1.0.3" provider-name="jsergio">
+	<!-- REPOSITORY: BLAMO -->
+	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.0.0" provider-name="Blamo">
+		<extension point="xbmc.addon.repository" name="Blamos">
+			<info compressed="false">https://raw.githubusercontent.com/teverz/blamo/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teverz/blamo/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teverz/blamo/master/zips/</datadir>		
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en"></summary>
+			<description lang="en">The Official Repo for Blamo</description>
+			<genre>movies,usa</genre>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: SERGIO -->
+	<addon id="repository.jsergio" name="jsergio repo" version="0.0.0" provider-name="jsergio">
 		<extension point="xbmc.addon.repository" name="jsergio repo">
-			<dir>
-				<info compressed="false">https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml</info>
-				<checksum>https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml.md5</checksum>
-				<datadir zip="true">http://dmdsoftware.net/repository.ddurdle/</datadir>
-			</dir>
 			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
@@ -42,7 +51,119 @@
 		</extension>
 	</addon>
 
-	<!-- THEHELL WIZARD -->
+	<!-- REPOSITORY: LOOKINGGLASS -->
+	<addon id="repository.lookingglass" name="[COLOR cyan]L[/COLOR][COLOR magenta]ooking[/COLOR] [COLOR cyan]G[/COLOR][COLOR magenta]lass[/COLOR]" version="0.0.0" provider-name="Looking Glass Team">
+		<extension point="xbmc.addon.repository" name="lookingglass">
+			<info compressed="false">http://www.lookingglass.rocks/zips/addons.xml</info>
+			<checksum>http://www.lookingglass.rocks/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://www.lookingglass.rocks/zips/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en"></summary>
+			<description lang="en">The Official Repo for the Looking Glass Team</description>
+			<genre>movies,usa</genre>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: MARCELVELDT -->
+	<addon id="repository.marcelveldt" version="0.0.0" name="Marcelveldt's BETA repository" provider-name="marcelveldt">
+		<extension point="xbmc.addon.repository" name="Marcelveldt's BETA repository">
+			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Kodi repository for beta/test versions of Marcelveldt's addons</summary>
+			<description lang="en">Kodi repository for beta/test versions of Marcelveldt's addons, for stable versions please just use the official Kodi repository. This repo is for test/beta versions of my work only</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: MAVERICKREPO -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="0.0.0" provider-name="Maverick TV">
+		<extension point="xbmc.addon.repository" name="[COLOR lime]MaverickTV Repo[/COLOR]">
+			<info compressed="false">http://mavericktv.net/mavrepo/plugins/addons.xml</info>
+			<checksum>http://mavericktv.net/mavrepo/plugins/addons.xml.md5</checksum>
+			<datadir zip="true">http://mavericktv.net/mavrepo/plugins/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>The MaverickTV Repository v1.7</summary>
+			<description>The MaverickTV Repository for add-on and dependencies</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: NOOBSANDNERDS -->
+	<addon id="repository.noobsandnerds" name="noobsandnerds Repository" version="0.0.0" provider-name="noobsandnerds">
+		<extension point="xbmc.addon.repository" name="noobsandnerds Repository">
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+				<summary>Home of The Community Portal</summary>
+				<description>Visit www.noobsandnerds.com and become a part of our great family, you get to choose what The Community Portal holds!</description>
+				<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: STREAMHUB -->
+	<addon id="repository.streamhub" name="[COLOR red]StreamHub Repository[/COLOR]" version="0.0.0" provider-name="sClarke">
+		<extension point="xbmc.addon.repository" name="[COLOR red]StreamHub Repository[/COLOR]">
+			<info compressed="false">https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Repo_Files/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Repo_Files/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Repo_Files/Zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>StreamHub</summary>
+			<description>StreamHub Repository - Bringing You StreamHub</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: YTPLUGIN -->
+	<addon id="repository.ytplugin" name="Youtube Addon Repo" version="0.0.0" provider-name="Jeffrey Frasure">
+		<extension point="xbmc.addon.repository" name="Youtube Addon Repository">
+			<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
+			<checksum>https://github.com/jdf76/repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/jdf76/repository/raw/master/zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Install Kodis Youtube Addons</summary>
+			<description>Download and install addons from the Kodi Youtube group. This plugin is not official from Google.</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: TVA.COMMON -->
+	<addon id="repository.tva.common" name="TVADDONS.CO Resolvers Repository" version="0.0.0" provider-name="tvaddons">
+		<extension point="xbmc.addon.repository" name="TVADDONS.CO Resolvers Repository">
+			<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+			<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Unofficial Resolvers for the Kodi Media Center</summary>
+			<description>Unofficial Resolvers for the Kodi Media Center. Please visit www.tvaddons.co for support!</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: ZT -->
+	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="0.0.0" provider-name="Team ZT">
+		<extension point="xbmc.addon.repository" name="Bla Bla Repository">
+			<info compressed="false">http://repo.zerotolerance.gq/addons.xml</info>
+			<checksum>http://repo.zerotolerance.gq/addonsmd5.txt</checksum>
+			<datadir zip="true">http://repo.zerotolerance.gq/addons/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary></summary>
+			<description></description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- PROGRAM: THEHELL WIZARD -->
 	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.11" provider-name="THEHELL">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
@@ -65,12 +186,7 @@
 		</extension>
 	</addon>
 
-
-
-
-
-
-
+	<!-- SUBTITLES: OPENSUBTITLES_BY_OPENSUBTITLES -->
 	<addon id="service.subtitles.opensubtitles_by_opensubtitles" name="OpenSubtitles.org by OpenSubtitles" version="5.2.14" provider-name="amet, opensubtitles">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
