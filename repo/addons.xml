@@ -16,9 +16,7 @@
 		<extension point="xbmc.addon.metadata">
 			<summary>THEHELL Addon</summary>
 			<description>THEHELL Addon Repo</description>
-			<news>
-				- Update
-			</news>
+			<news>Updates</news>
 			<platform>all</platform>
 		</extension>
 	</addon>
