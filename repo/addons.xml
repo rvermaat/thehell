@@ -19,6 +19,11 @@
 	<!-- REPOSITORY: FRENCHDJ v0.0.1 -->
 	<addon id="frenchdj.repository" name="frenchdj repository" version="0.0.1" provider-name="frenchdj">
 		<extension point="xbmc.addon.repository" name="frenchdj Add-on Repository">
+			<dir>
+				<info compressed="false">http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml</info>
+				<checksum>http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml.md5</checksum>
+				<datadir zip="true">http://raw.github.com/frenchdj/frenchdj.repository/master/repo/</datadir>
+			</dir>
 			<info compressed="false">http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml</info>
 			<checksum>http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml.md5</checksum>
 			<datadir zip="true">http://raw.github.com/frenchdj/frenchdj.repository/master/repo/</datadir>
