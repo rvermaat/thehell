@@ -79,17 +79,18 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: BLAMO v0.0.6 -->
-	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.0.6" provider-name="Blamo">
+	<!-- REPOSITORY: BLAMO v0.0.8 -->
+	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.0.8" provider-name="Mr. Blamo">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
 		<extension point="xbmc.addon.repository" name="Blamos">
 			<dir>
-				<info compressed="false">http://theunjudged.com/Blamo/addons.xml</info>
-				<checksum>http://theunjudged.com/Blamo/addons.xml.md5</checksum>
-				<datadir zip="true">http://theunjudged.com/Blamo/</datadir>		
-			</dir>
+	            <info compressed="false">https://gitlab.com/MrBlamo/Mr_Blamo_Repo/raw/master/_zips/addons.xml</info>
+	            <checksum>https://gitlab.com/MrBlamo/Mr_Blamo_Repo/raw/master/_zips/addons.xml.md5</checksum>
+	            <datadir zip="true">https://gitlab.com/MrBlamo/Mr_Blamo_Repo/raw/master/_zips/</datadir>
+	            <hashes>false</hashes>
+            </dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en"></summary>
