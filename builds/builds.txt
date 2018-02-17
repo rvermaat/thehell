@@ -12,7 +12,7 @@ description="THEHELL Build"
 
 name="TEST Test Build"
 version="0.18"
-url="https://archive.org/download/thehell/builds/test/thehell_build_v0.18c.zip"
+url="https://archive.org/download/thehell/builds/test/thehell_build_v0.18f.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
