@@ -139,6 +139,21 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: MAVERICKREPO v2.8 -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="2.8" provider-name="Maverick TV">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="[COLOR lime]MaverickTV Repo[/COLOR]">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>The MaverickTV Repository</summary>
+			<description>The MaverickTV Repository for add-on and dependencies</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- PROGRAM: THEHELL WIZARD -->
 	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.11" provider-name="THEHELL">
 		<requires>
