@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
 	<!-- REPOSITORY: THEHELL v0.0.14 -->
@@ -93,8 +93,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: BLAMO v0.0.9 -->
-	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.0.9" provider-name="Mr. Blamo">
+	<!-- REPOSITORY: BLAMO v0.1.0 -->
+	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.1.0" provider-name="Mr. Blamo">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -124,8 +124,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ZT v3.0 -->
-	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="3.0" provider-name="Team ZT">
+	<!-- REPOSITORY: ZT v4.0 -->
+	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="4.0" provider-name="Team ZT">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
