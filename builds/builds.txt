@@ -1,6 +1,6 @@
 name="THEHELL Build"
-version="0.17"
-url="https://archive.org/download/thehell/builds/prod/thehell_build_v0.17.zip"
+version="0.18"
+url="https://archive.org/download/thehell/builds/prod/thehell_build_v0.18.zip"
 gui="http://"
 kodi="17.0"
 theme="http://"
