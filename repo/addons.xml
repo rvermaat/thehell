@@ -185,7 +185,7 @@
 	</addon>
 
 	<!-- PROGRAM: THEHELL WIZARD -->
-	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.12" provider-name="THEHELL">
+	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.0.13" provider-name="THEHELL">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -199,10 +199,6 @@
 				This Wizard allows you to install the latest version of builds from THEHELL. 
 				It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.
 			</description>
-			<news>
-				- remove unused trakt/debrid/addons
-				- added resolveURL support
-			</news>
 			<platform>all</platform>
 		</extension>
 	</addon>
