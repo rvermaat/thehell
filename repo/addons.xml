@@ -154,8 +154,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ZT v4.0 -->
-	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="4.0" provider-name="Team ZT">
+	<!-- REPOSITORY: ZT v5.0 -->
+	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.0" provider-name="Team ZT">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
