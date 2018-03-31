@@ -169,8 +169,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ZT v5.0 -->
-	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.0" provider-name="Team ZT">
+	<!-- REPOSITORY: ZT v5.1 -->
+	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.1" provider-name="Team ZT">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -184,8 +184,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: MAVERICKREPO v2.8 -->
-	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="2.8" provider-name="Maverick TV">
+	<!-- REPOSITORY: MAVERICKREPO v3.1 -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.1" provider-name="Maverick TV">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
