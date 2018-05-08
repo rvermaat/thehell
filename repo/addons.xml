@@ -169,8 +169,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ZT v5.1 -->
-	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.1" provider-name="Team ZT">
+	<!-- REPOSITORY: ZT v5.5 -->
+	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.5" provider-name="Team ZT">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -184,8 +184,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: MAVERICKREPO v3.1 -->
-	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.1" provider-name="Maverick TV">
+	<!-- REPOSITORY: MAVERICKREPO v3.4 -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.4" provider-name="Maverick TV">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -199,8 +199,23 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: GAIA.1 v1.5.0 -->
-	<addon id="repository.gaia.1" version="1.5.0" name="Gaia Repository 1" provider-name="Gaia">
+	<!-- REPOSITORY: SUPREMACY v2.3 -->
+	<addon id="repository.supremacy" name="[COLORaqua]supremacy[/COLOR]" version="2.3" provider-name="supremacy">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="[COLORaqua]supremacy[/COLOR]">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>video addon for supremacy</summary>
+			<description>Latest Addon Updates For Supremacy Repository</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: GAIA.1 v2.1.0 -->
+	<addon id="repository.gaia.1" version="2.1.0" name="Gaia Repository 1" provider-name="Gaia">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
