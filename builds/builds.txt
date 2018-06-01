@@ -24,7 +24,7 @@ description="Development Build"
 
 name="TEST DEV2"
 version="0.20e"
-url="http://192.168.2.250/thehell_build_v020e.zip"
+url="http://192.168.2.250/thehell_build_v0.20e.zip"
 gui="http://192.168.2.250/thehell_gui_v0.20e.zip"
 kodi="17.0"
 theme="http://"
