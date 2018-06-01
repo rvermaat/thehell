@@ -23,7 +23,7 @@ adult="no"
 description="Development Build"
 
 name="TEST DEV 2"
-version="0.20g"
+version="0.20f"
 url="https://archive.org/download/thehell/builds/dev/thehell_build_v0.20f.zip"
 gui="https://archive.org/download/thehell/builds/dev/thehell_gui_v0.20f.zip"
 kodi="17.0"
