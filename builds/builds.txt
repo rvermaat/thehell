@@ -1,5 +1,5 @@
 name="THEHELL Build"
-version="0.20"
+version="0.19"
 url="https://archive.org/download/thehell/builds/prod/thehell_build_v0.19.zip"
 gui="https://archive.org/download/thehell/builds/prod/thehell_gui_v0.19.zip"
 kodi="17.0"
