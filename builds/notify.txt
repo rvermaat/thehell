@@ -3,4 +3,9 @@
 
 THEHELL Build News and Updates
 
-16/07/2018 - THEHELL v0.21 Builds updated!
+01/07/2018
+==========
+Addons: 1. Placenta -> [Filehosters] Primary addon in the build
+        2. Gaia -> [Torrents] New addon thats uses RealDebrid cached torrent. You need to reauth trakt en realdebrid within the addon to use it.
+        3. TheMagicDragon -> Filelister
+        4. Incursion -> [Filehoster] Is discontinued. Will be removed from build
