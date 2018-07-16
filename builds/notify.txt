@@ -10,3 +10,4 @@ Addons:
    2. Gaia -> [Torrents] New addon thats uses RealDebrid cached torrent. You need to reauth trakt en realdebrid within the addon to use it.
    3. TheMagicDragon -> Filelister
    4. Incursion -> [Filehoster] Is discontinued. Will be removed from build
+   
