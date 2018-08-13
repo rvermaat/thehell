@@ -123,8 +123,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: BLAMO v0.1.6 -->
-	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.1.6" provider-name="Mr. Blamo">
+	<!-- REPOSITORY: BLAMO v0.1.7 -->
+	<addon id="repository.blamo" name="[COLOR red]Blamo Repo[/COLOR]" version="0.1.7" provider-name="Mr. Blamo">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -154,23 +154,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ZT v5.5.1 -->
-	<addon id="repository.zt" name="[COLORred]Z[/COLOR]ero [COLORwhite]T[/COLOR]olerance Repository" version="5.5.1" provider-name="Team ZT">
-		<requires>
-			<import addon="xbmc.addon" version="12.0.0"/>
-		</requires>
-		<extension point="xbmc.addon.repository" name="Bla Bla Repository">
-			<provides>program repository</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary></summary>
-			<description></description>
-			<platform>all</platform>
-		</extension>
-	</addon>
-
-	<!-- REPOSITORY: MAVERICKREPO v3.4 -->
-	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.4" provider-name="Maverick TV">
+	<!-- REPOSITORY: MAVERICKREPO v3.5 -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.5" provider-name="Maverick TV">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -184,8 +169,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: SUPREMACY v2.4 -->
-	<addon id="repository.supremacy" name="[COLORaqua]supremacy[/COLOR]" version="2.4" provider-name="supremacy">
+	<!-- REPOSITORY: SUPREMACY v2.5 -->
+	<addon id="repository.supremacy" name="[COLORaqua]supremacy[/COLOR]" version="2.5" provider-name="supremacy">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -199,8 +184,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: GAIA.1 v2.1.0 -->
-	<addon id="repository.gaia.1" version="2.1.0" name="Gaia Repository 1" provider-name="Gaia">
+	<!-- REPOSITORY: GAIA.1 v3.0.0 -->
+	<addon id="repository.gaia.1" version="3.0.0" name="Gaia Repository 1" provider-name="Gaia">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
