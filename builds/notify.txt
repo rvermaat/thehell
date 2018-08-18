@@ -1,8 +1,5 @@
 1
 |||
-
-THEHELL Build News and Updates
-
 v0.22
 ==========
 * New backgrond pictures.
