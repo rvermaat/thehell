@@ -4,7 +4,7 @@ v0.22
 ==========
 * New backgrond pictures.
 * You need to authorize trakt for the addons Placenta / Incursion and Gaia, if not allready done.
-* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia
+* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia, if not allready done.
 * Addons:
    1. Placenta -> [Filehosters] Primary addon in the build
    2. Gaia -> [Torrents] Addon uses RealDebrid cached torrents.
