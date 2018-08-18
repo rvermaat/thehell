@@ -3,11 +3,13 @@
 
 THEHELL Build News and Updates
 
-01/07/2018
+v0.22
 ==========
-Addons:
+* New backgrond pictures.
+* You need to authorize trakt for the addons Placenta / Incursion and Gaia, if not allready done.
+* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia
+* Addons:
    1. Placenta -> [Filehosters] Primary addon in the build
-   2. Gaia -> [Torrents] New addon thats uses RealDebrid cached torrent. You need to reauth trakt en realdebrid within the addon to use it.
+   2. Gaia -> [Torrents] Addon uses RealDebrid cached torrents.
    3. TheMagicDragon -> Filelister
-   4. Incursion -> [Filehoster] Is discontinued. Will be removed from build
-   
+   4. Incursion -> [Filehoster] Is discontinued. Will be removed from build in the future
