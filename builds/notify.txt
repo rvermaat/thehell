@@ -10,3 +10,5 @@ v0.22
    2. Gaia -> [Torrents] Addon uses RealDebrid cached torrents.
    3. TheMagicDragon -> Filelister
    4. Incursion -> [Filehoster] Is discontinued. Will be removed from build in the future
+
+After the reboot please give it a few minutes to do its things...
