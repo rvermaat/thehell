@@ -1,5 +1,18 @@
-1
+2
 |||
+v0.23
+==========
+* You need to authorize trakt for the addons Placenta and Gaia, if not allready done.
+* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia, if not allready done.
+* Incursion is removed from the build
+* Placenta is discontinued
+* Addons:
+   1. Placenta -> [Filehosters] Primary addon in the build. Is discontinued and will be removed in the future
+   2. Gaia -> [Torrents/Filehosters] Addon uses RealDebrid cached torrents and filehosters
+   3. TheMagicDragon -> Filelister
+After the reboot please give it a few minutes to do its things...
+
+
 v0.22
 ==========
 * New backgrond pictures.
@@ -10,5 +23,4 @@ v0.22
    2. Gaia -> [Torrents] Addon uses RealDebrid cached torrents.
    3. TheMagicDragon -> Filelister
    4. Incursion -> [Filehoster] Is discontinued. Will be removed from build in the future
-
 After the reboot please give it a few minutes to do its things...
