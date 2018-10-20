@@ -138,8 +138,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: GAIA v3.2.0 -->
-	<addon id="repository.gaia" version="3.2.0" name="Gaia Repository" provider-name="Gaia">
+	<!-- REPOSITORY: GAIA v3.2.1 -->
+	<addon id="repository.gaia" version="3.2.1" name="Gaia Repository" provider-name="Gaia">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -157,8 +157,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: EXODUS REDUX v0.0.1 -->
-	<addon id="repository.exodusredux" version="0.0.1" name="Exodus Redux Repo" provider-name="I-A-C">
+	<!-- REPOSITORY: EXODUS REDUX v0.0.6 -->
+	<addon id="repository.exodusredux" version="0.0.6" name="Exodus Redux Repo" provider-name="I-A-C">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -166,8 +166,8 @@
 			<provides>program repository</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>video addon</summary>
-			<description>Latest Addon Updates</description>
+			<summary lang="en">Exodus Redux is a educational add-on. We do not host any of the contents streamed.</summary>
+			<description lang="en"></description>
 			<platform>all</platform>
 		</extension>
 	</addon>
