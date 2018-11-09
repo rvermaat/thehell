@@ -17,6 +17,21 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: alanon v1.0.2 -->
+	<addon id="repository.alanon" version="1.0.2" name="Alanon's Repo" provider-name="Alanon">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="Alanon's Repo">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Alanon's Kodi Repo</summary>
+			<description>Here you can find my Eminence 2 MOD.</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- REPOSITORY: JSERGIO v1.0.3 -->
 	<addon id="repository.jsergio" name="jsergio repo" version="1.0.3" provider-name="jsergio">
 		<requires>
@@ -157,8 +172,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: EXODUS REDUX v0.0.6 -->
-	<addon id="repository.exodusredux" version="0.0.6" name="Exodus Redux Repo" provider-name="I-A-C">
+	<!-- REPOSITORY: EXODUS REDUX v0.0.7 -->
+	<addon id="repository.exodusredux" version="0.0.7" name="Exodus Redux Repo" provider-name="I-A-C">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
