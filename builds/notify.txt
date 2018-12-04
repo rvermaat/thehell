@@ -1,26 +1,25 @@
-2
+3
 |||
-v0.23
+v0.24
 ==========
-* You need to authorize trakt for the addons Placenta and Gaia, if not allready done.
-* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia, if not allready done.
-* Incursion is removed from the build
-* Placenta is discontinued
-* Addons:
-   1. Placenta -> [Filehosters] Primary addon in the build. Is discontinued and will be removed in the future
-   2. Gaia -> [Torrents/Filehosters] Addon uses RealDebrid cached torrents and filehosters
-   3. TheMagicDragon -> Filelister
-After the reboot please give it a few minutes to do its things...
+* New Addon Yoda (replaces Placenta)
+* New Addon Seren (needs RealDebrid and or Premiumize)
 
+* Installed Addons:
+   1. Seren-> [Torrents] Addon uses RealDebrid/Premiumize torrent cache
+   2. Yoda -> [Hosters] Addon use RealDebrid hosters cache 
+   2. Gaia -> [Torrents] Addon uses RealDebrid/Premiumize torrents cache 
+   3. TheMagicDragon -> Filelister ; uses RealDebrid hosters cache
 
-v0.22
-==========
-* New backgrond pictures.
-* You need to authorize trakt for the addons Placenta / Incursion and Gaia, if not allready done.
-* You need to authorize a debrid service for the addons URLResolver / ResolveURL and Gaia, if not allready done.
-* Addons:
-   1. Placenta -> [Filehosters] Primary addon in the build
-   2. Gaia -> [Torrents] Addon uses RealDebrid cached torrents.
-   3. TheMagicDragon -> Filelister
-   4. Incursion -> [Filehoster] Is discontinued. Will be removed from build in the future
-After the reboot please give it a few minutes to do its things...
+* After the reboot please give it a few minutes to do its things and then:
+   1. Authorize Trakt for Seren
+   2. Authorize RealDebrid and or Premiumize for Seren
+   3. Authorize Trakt for Yoda
+
+* If not allready done also do:
+   1. Authorize Trakt for Gaia
+   2. Authorize RealDebrid and or Premiumize for Gaia
+   3. Authorize URLResolver and ResolveURL for RealDebrid
+
+* When all is configured reboot again and enjoy!
+
