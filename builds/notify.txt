@@ -1,5 +1,8 @@
-3
+4
 |||
+
+NOTICE: The last update of ResolveURL added some new features with can mean you need to ReAuthorize Real-Debrid. So if Real-Debrid does not work in Yoda and/or TheMagicDragon ReAuthorize it in ResolveURL.
+
 v0.24
 ==========
 * New Addon Yoda (replaces Placenta)
