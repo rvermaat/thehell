@@ -138,6 +138,21 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: PREMIUMIZE v1.0.0 -->
+	<addon id="repository.premiumize" name="Premiumize.me Addon repository" version="1.0.0" provider-name="Premiumize.me">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="[Premiumize.me Addon repository">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Repository for the Premiumize.me Kodi repository and Premiumize.me Kodi addons</summary>
+			<description>Repository for the Premiumize.me Kodi repository and Premiumize.me Kodi addons</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- REPOSITORY: SUPREMACY v2.5 -->
 	<addon id="repository.supremacy" name="[COLORaqua]supremacy[/COLOR]" version="2.5" provider-name="supremacy">
 		<requires>
@@ -183,6 +198,21 @@
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">Exodus Redux is a educational add-on. We do not host any of the contents streamed.</summary>
 			<description lang="en"></description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- REPOSITORY: 13CLOWNS v1.0.15a -->
+	<addon id="repository.13clowns" version="1.0.15a" name="[B][COLOR red]13Clowns[/COLOR] Repo[/B]" provider-name="13Clowns">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="13Clowns Repo">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">[B][COLOR red]13Clowns[/COLOR][/B] - Repo is a free portal for you Clowns to see the best stuff!.</summary>
+			<description lang="en">[B][COLOR red]13Clowns[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
 			<platform>all</platform>
 		</extension>
 	</addon>
