@@ -202,8 +202,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: 13CLOWNS v1.0.15a -->
-	<addon id="repository.13clowns" version="1.0.15a" name="[B][COLOR red]13Clowns[/COLOR] Repo[/B]" provider-name="13Clowns">
+	<!-- REPOSITORY: 13CLOWNS v2.0.3 -->
+	<addon id="repository.13clowns" version="2.0.3" name="[B][COLOR red]13Clowns[/COLOR] Repo[/B]" provider-name="13Clowns">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
