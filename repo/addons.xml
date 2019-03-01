@@ -123,8 +123,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: MAVERICKREPO v3.5 -->
-	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.5" provider-name="Maverick TV">
+	<!-- REPOSITORY: MAVERICKREPO v3.8 -->
+	<addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="3.8" provider-name="Maverick TV">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -168,8 +168,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: GAIA v3.2.1 -->
-	<addon id="repository.gaia" version="3.2.1" name="Gaia Repository" provider-name="Gaia">
+	<!-- REPOSITORY: GAIA v4.0.0 -->
+	<addon id="repository.gaia" version="4.0.0" name="Gaia Repository" provider-name="Gaia">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
