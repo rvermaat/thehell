@@ -1,28 +1,27 @@
-4
+5
 |||
 
-NOTICE: The last update of ResolveURL added some new features with can mean you need to ReAuthorize Real-Debrid. So if Real-Debrid does not work in Yoda and/or TheMagicDragon ReAuthorize it in ResolveURL.
+NOTICE: When torrents do not work ReAuthorize RealDebrid.
 
-v0.24
+v0.27
 ==========
-* New Addon Yoda (replaces Placenta)
-* New Addon Seren (needs RealDebrid and or Premiumize)
+* Removed Gaia (can still manually be install from THEHELL repository)
 
 * Installed Addons:
-   1. Seren-> [Torrents] Addon uses RealDebrid/Premiumize torrent cache
-   2. Yoda -> [Hosters] Addon use RealDebrid hosters cache 
-   2. Gaia -> [Torrents] Addon uses RealDebrid/Premiumize torrents cache 
-   3. TheMagicDragon -> Filelister ; uses RealDebrid hosters cache
+   1. Seren => [Torrents] Addon uses RealDebrid cache
+   2. Yoda => [Torrents/Hosters] Addon uses RealDebrid cache 
+   2. Atreides => [Torrents/Hosters] Addon uses RealDebrid cache 
+   3. TheMagicDragon => [Filelister] Addon uses RealDebrid cache
 
 * After the reboot please give it a few minutes to do its things and then:
-   1. Authorize Trakt for Seren
-   2. Authorize RealDebrid and or Premiumize for Seren
-   3. Authorize Trakt for Yoda
 
 * If not allready done also do:
-   1. Authorize Trakt for Gaia
-   2. Authorize RealDebrid and or Premiumize for Gaia
-   3. Authorize URLResolver and ResolveURL for RealDebrid
+   1. Authorize Trakt for Seren
+   2. Authorize Trakt for Yoda
+   3. Authorize Trakt for Atreides
+   4. Authorize RealDebrid for Seren
+   5. Authorize RealDebrid for URLResolver
+   6. Authorize RealDebrid for ResolveURL
 
 * When all is configured reboot again and enjoy!
 
