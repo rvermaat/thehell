@@ -187,8 +187,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ATREIDES v0.0.3 -->
-	<addon id="repository.atreides" version="0.0.3" name="Atreides Repository" provider-name="ACE">
+	<!-- REPOSITORY: ATREIDES v0.0.5 -->
+	<addon id="repository.atreides" version="0.0.5" name="Atreides Repository" provider-name="House Atreides">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -196,8 +196,8 @@
 			<provides>program repository</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Atreides Official Repository!</summary>
-			<description lang="en">Atreides Official Repository</description>
+			<summary lang="en">House Atreides Official Repository</summary>
+			<description lang="en">House Atreides Official Repository</description>
 			<platform>all</platform>
 		</extension>
 	</addon>
