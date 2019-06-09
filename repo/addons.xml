@@ -233,6 +233,22 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: AENEMAPY v2018.01.04.2 -->
+	<addon id="repository.aenemapy" name="Aenemapy Addons Repository" version="2018.01.04.2" provider-name="aenemapy">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="Aenemapy Addons Repository">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Aenemapy repo</summary>
+			<description>This is just a repo...</description>
+			<disclaimer></disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- PROGRAM: THEHELL WIZARD -->
 	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.1.0" provider-name="THEHELL">
 		<requires>
@@ -253,7 +269,25 @@
 	</addon>
 
 	<!-- VIDEO: IPTV -->
-	<addon id="plugin.video.iptv" name="IPTV" version="1.0.0" provider-name="IPTV">
+	<addon id="plugin.video.iptv" name="[COLORlime]Helix[/COLOR] [COLORwhite]Hosting[/COLOR]" version="1.0.0" provider-name="AsToReY">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.requests" />
+			<import addon="script.module.metahandler"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Live Tv, Catchup and Video On Demand Brought to you by [COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR]</summary>
+			<language>en</language>
+			<description lang="en">[COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR] - Official Kodi Addon - Supplier of Great Quality and Stable Streams at affordable prices</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- VIDEO: IPTV -->
+	<addon id="plugin.video.HelixHosting" name="HelixHosting" version="1.0.0" provider-name="IPTV">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.requests" />
@@ -272,7 +306,7 @@
 	</addon>
 
 	<!-- SUBTITLES: OPENSUBTITLES_BY_OPENSUBTITLES -->
-	<addon id="service.subtitles.opensubtitles_by_opensubtitles" name="OpenSubtitles.org by OpenSubtitles" version="5.2.14" provider-name="amet, opensubtitles">
+	<addon id="service.subtitles.opensubtitles_by_opensubtitles" name="OpenSubtitles.org by OpenSubtitles" version="5.2.15" provider-name="amet, opensubtitles">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
