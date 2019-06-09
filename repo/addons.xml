@@ -287,8 +287,8 @@
 		</extension>
 	</addon>
 
-	<!-- VIDEO: IPTV -->
-	<addon id="plugin.video.HelixHosting" name="[COLORlime]Helix[/COLOR] [COLORwhite]Hosting[/COLOR]" version="1.0.0" provider-name="AsToReY">
+	<!-- VIDEO: HelixHosting -->
+	<addon id="plugin.video.HelixHosting" name="[COLORlime]Helix[/COLOR] [COLORwhite]Hosting[/COLOR]" version="1.0" provider-name="AsToReY">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.requests" />
