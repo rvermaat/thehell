@@ -269,25 +269,7 @@
 	</addon>
 
 	<!-- VIDEO: IPTV -->
-	<addon id="plugin.video.iptv" name="[COLORlime]Helix[/COLOR] [COLORwhite]Hosting[/COLOR]" version="1.0.0" provider-name="AsToReY">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-			<import addon="script.module.requests" />
-			<import addon="script.module.metahandler"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Live Tv, Catchup and Video On Demand Brought to you by [COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR]</summary>
-			<language>en</language>
-			<description lang="en">[COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR] - Official Kodi Addon - Supplier of Great Quality and Stable Streams at affordable prices</description>
-			<platform>all</platform>
-		</extension>
-	</addon>
-
-	<!-- VIDEO: IPTV -->
-	<addon id="plugin.video.HelixHosting" name="HelixHosting" version="1.0.0" provider-name="IPTV">
+	<addon id="plugin.video.iptv" name="IPTV" version="1.0.0" provider-name="IPTV">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.requests" />
@@ -301,6 +283,24 @@
 			<language>en</language>
 			<description lang="en">Offering Only The Best IPTV</description>
 			<disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
+	<!-- VIDEO: IPTV -->
+	<addon id="plugin.video.HelixHosting" name="[COLORlime]Helix[/COLOR] [COLORwhite]Hosting[/COLOR]" version="1.0.0" provider-name="AsToReY">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.requests" />
+			<import addon="script.module.metahandler"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Live Tv, Catchup and Video On Demand Brought to you by [COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR]</summary>
+			<language>en</language>
+			<description lang="en">[COLORlime]Helix[/COLOR] [COLORwhite] Hosting[/COLOR] - Official Kodi Addon - Supplier of Great Quality and Stable Streams at affordable prices</description>
 			<platform>all</platform>
 		</extension>
 	</addon>
