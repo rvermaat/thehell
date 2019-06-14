@@ -153,21 +153,6 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: SUPREMACY v1.0 -->
-	<addon id="repository.supremacy" name="[COLORaqua]supremacy[/COLOR]" version="1.0" provider-name="supremacy">
-		<requires>
-			<import addon="xbmc.addon" version="12.0.0"/>
-		</requires>
-		<extension point="xbmc.addon.repository" name="[COLORaqua]supremacy[/COLOR]">
-			<provides>program repository</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary>video addon for supremacy</summary>
-			<description>Latest Addon Updates For Supremacy Repository</description>
-			<platform>all</platform>
-		</extension>
-	</addon>
-
 	<!-- REPOSITORY: GAIA v4.0.0 -->
 	<addon id="repository.gaia" version="4.0.0" name="Gaia Repository" provider-name="Gaia">
 		<requires>
@@ -187,8 +172,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ATREIDES v0.0.5 -->
-	<addon id="repository.atreides" version="0.0.5" name="Atreides Repository" provider-name="House Atreides">
+	<!-- REPOSITORY: ATREIDES v0.0.6 -->
+	<addon id="repository.atreides" version="0.0.6" name="Atreides Repository" provider-name="House Atreides">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
