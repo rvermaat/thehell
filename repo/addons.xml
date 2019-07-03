@@ -138,8 +138,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: GAIA v4.0.0 -->
-	<addon id="repository.gaia" version="4.0.0" name="Gaia Repository" provider-name="Gaia">
+	<!-- REPOSITORY: GAIA v5.0.0 -->
+	<addon id="repository.gaia" version="5.0.0" name="Gaia Repository" provider-name="Gaia">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
@@ -172,8 +172,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: OPENMETA v1.3 -->
-	<addon id="repository.openmeta" version="1.3" name="OpenMeta Repository" provider-name="A4K">
+	<!-- REPOSITORY: OPENMETA v1.4 -->
+	<addon id="repository.openmeta" version="1.4" name="OpenMeta Repository" provider-name="A4K">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
