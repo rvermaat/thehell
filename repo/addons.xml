@@ -220,7 +220,7 @@
 	</addon>
 
 	<!-- PROGRAM: THEHELL WIZARD -->
-	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.1.0" provider-name="THEHELL">
+	<addon id="plugin.program.thehellwizard" name="THEHELL Wizard" version="0.1.1" provider-name="THEHELL">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
