@@ -1,27 +1,26 @@
-5
+6
 |||
 
-NOTICE: When torrents do not work ReAuthorize RealDebrid.
+NOTICE: When torrents do not work ReAuthorize Debrid.
 
-v0.27
+v17.28
 ==========
-* Removed Gaia (can still manually be install from THEHELL repository)
+* Removed Yoda (discontinued)
+* Removed TheMagicDragon (discontinued)
+* Removed URLResolver (not used by installed addons)
 
 * Installed Addons:
-   1. Seren => [Torrents] Addon uses RealDebrid cache
-   2. Yoda => [Torrents/Hosters] Addon uses RealDebrid cache 
-   2. Atreides => [Torrents/Hosters] Addon uses RealDebrid cache 
-   3. TheMagicDragon => [Filelister] Addon uses RealDebrid cache
+   1. Atreides => [Torrents/Hosters] Addon uses Debrid cache 
+   2. Seren => [Torrents] Addon uses Debrid cache
 
 * After the reboot please give it a few minutes to do its things and then:
 
 * If not allready done also do:
-   1. Authorize Trakt for Seren
-   2. Authorize Trakt for Yoda
-   3. Authorize Trakt for Atreides
-   4. Authorize RealDebrid for Seren
-   5. Authorize RealDebrid for URLResolver
-   6. Authorize RealDebrid for ResolveURL
+   1. Authorize Trakt for Atreides
+   2. Authorize Trakt for Seren
+   3. Authorize Debrid for ResolveURL
+   4. Authorize Debrid for Seren
 
 * When all is configured reboot again and enjoy!
 
+* Trakt / Debrid authorisation can be done with the Services in the mainmenu
