@@ -157,8 +157,8 @@
 		</extension>
 	</addon>
 
-	<!-- REPOSITORY: ATREIDES v0.0.6 -->
-	<addon id="repository.atreides" version="0.0.6" name="Atreides Repository" provider-name="House Atreides">
+	<!-- REPOSITORY: ATREIDES v0.0.7 -->
+	<addon id="repository.atreides" version="0.0.7" name="Atreides Repository" provider-name="House Atreides">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
