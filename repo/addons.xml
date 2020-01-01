@@ -17,6 +17,22 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: PlexKodiConnect v1.0.2 -->
+	<addon id="repository.plexkodiconnect" name="PlexKodiConnect Repository" version="1.0.2" provider-name="croneter">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="PlexKodiConnect Repository">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>PlexKodiConnect add-on repository</summary>
+			<description>Repository for stable PlexKodiConnect versions</description>
+			<disclaimer></disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- REPOSITORY: alanon v1.0.2 -->
 	<addon id="repository.alanon" version="1.0.2" name="Alanon's Repo" provider-name="Alanon">
 		<requires>
