@@ -33,6 +33,22 @@
 		</extension>
 	</addon>
 
+	<!-- REPOSITORY: f1tv v1.0 -->
+	<addon id="repository.f1tv" name="repository.f1tv" version="1.0" provider-name="bbsan2k">
+		<requires>
+			<import addon="xbmc.addon" version="12.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.repository" name="repository.f1tv">
+			<provides>program repository</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>F1TV Repo</summary>
+			<description>Repository for F1TV addon</description>
+			<disclaimer></disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 	<!-- REPOSITORY: alanon v1.0.2 -->
 	<addon id="repository.alanon" version="1.0.2" name="Alanon's Repo" provider-name="Alanon">
 		<requires>
